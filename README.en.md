@@ -48,7 +48,7 @@ The acquisition of new versions of codes and programs needs to support (purchase
 So if you like this project and approve of my work, you can click buy in the software to get the latest version and code.
 
 ## About Me 
-- E-Mail： wujiayang1981@126.com
+- E-Mail: wujiayang1981@126.com
 - E-Mail(2): wujiayang2007@xiaowustudio.top
-- WebSite： www.xiaowustudio.top
-- WeChatID：Y1170499470123456789
+- WebSite: www.xiaowustudio.top
+- WeChatID: Y1170499470123456789
