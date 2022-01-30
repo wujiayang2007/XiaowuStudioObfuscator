@@ -34,7 +34,7 @@ XiaowuStudio .NET混淆器的开发初衷：
 
 ## 版权和协议
 
-XiaowuStudio .NET混淆器 项目基于 ``MIT`` 开源协议开放项目源代码。本项目版权由项目发起者、开发者``吴加杨``所有。
+XiaowuStudio .NET混淆器 项目基于 ``MIT`` 开源协议开放项目源代码。本项目版权由项目开发者``吴加杨``所有。
 
 依照 MIT 协议规定您需要在您的衍生项目中保留 XiaowuStudio .NET混淆器 的版权信息：Powered by XiaowuStudioObfuscator。
 
