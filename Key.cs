@@ -10,7 +10,7 @@ namespace XiaowuStudioFileOperation
     {
         public static string wujiayang2007KeyB64Encode()
         {
-            string str = "wujiayang2007";
+            string str = "abcdefg";
             for (int i = 0; i < 5; i++)
             {
                 str = Utils.B64.Base64Encode(str);
